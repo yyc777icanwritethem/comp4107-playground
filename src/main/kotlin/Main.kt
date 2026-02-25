@@ -1,4 +1,6 @@
 package hk.edu.hkbu.comp.comp4107.playground
+import hk.edu.hkbu.comp.comp4107.playground.Yicheng_Yang.SelfIntroduction
+import hk.edu.hkbu.comp.comp4107.playground.kennycheng.SelfIntro
 
 import hk.edu.hkbu.comp.comp4107.playground.yichengYang.SelfIntroduction
 
@@ -15,4 +17,7 @@ fun main() {
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
         println("i = $i")
     }
+
+    println("hi")
+    println("hi")
 }
